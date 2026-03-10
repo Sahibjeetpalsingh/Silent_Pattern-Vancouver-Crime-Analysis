@@ -1,0 +1,12 @@
+# Large data files
+*.csv
+*.db
+
+# R generated files
+.RData
+.Rhistory
+Rplots.pdf
+.Rproj.user/
+
+# Generated outputs
+harassment_pattern.png
