@@ -1,5 +1,6 @@
 # Large data files
-*.csv
+crimedata.csv
+crimedata_csv_AllNeighbourhoods_AllYears.csv
 *.db
 
 # R generated files
