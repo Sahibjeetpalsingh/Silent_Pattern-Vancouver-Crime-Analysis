@@ -16,7 +16,7 @@
 ## See the Output
 
 <p align="center">
-  <img src="output/vancouver_offence_against_person_trends.png" width="760" alt="Faceted line chart showing offence against a person trends across 24 Vancouver neighbourhoods" />
+  <img src="output/Screenshot 2026-03-10 011303.png" width="760" alt="Faceted line chart showing offence against a person trends across 24 Vancouver neighbourhoods" />
 </p>
 
 Twenty-four neighbourhoods. Twenty-two years of data. 552 observations. The Central Business District alone accounts for 30.3% of all recorded incidents in this dataset, more than the next two neighbourhoods combined. That concentration is the first finding, and the one that shapes every question that follows.
